@@ -13,5 +13,19 @@
   
 ## Gameplay GIFS
   ### Selection Mode
+  A short demo of the "Selection mode" gameplay.
   
+  
+  
+  
+  
+  ![alt text](https://github.com/CorbinGraham/Speed_Swap/blob/master/Selection%20mode.gif)
   ### Original Mode
+  A short demo of the "Original mode" gameplay.
+  
+  
+  
+  
+  
+  
+  ![alt text](https://github.com/CorbinGraham/Speed_Swap/blob/master/Original%20mode.gif)
