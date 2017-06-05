@@ -15,6 +15,7 @@ public class GameController : MonoBehaviour {
     void Awake()
     {
 
+        Screen.orientation = ScreenOrientation.Portrait;
         Application.targetFrameRate = 60;
         if (control == null)
         {
