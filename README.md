@@ -1,6 +1,7 @@
 # Speed_Swap
   This is a game I created for mobile devices in the Unity engine. This is my first ever Unity project and was mostly created as a means
-  of learning all of the engine mechanics. The game is designed to be challenging and relies on the players reflexes. 
+  of learning all of the engine mechanics. The game is designed to be challenging and relies on the players reflexes to quickly alter the
+  colour of the ball to match the upcoming wall. 
   
 ## Game Modes
   The game is separated into "Selection mode" and "Original mode" both utilizing the same assets with slight gameplay changes. The colour
